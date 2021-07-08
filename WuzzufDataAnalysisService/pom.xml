@@ -56,6 +56,11 @@
 		<artifactId>netty-all</artifactId>
 		<version>4.1.17.Final</version>
 	</dependency>
+	<dependency>
+		<groupId>tech.tablesaw</groupId>
+		<artifactId>tablesaw-core</artifactId>
+		<version>0.38.2</version>
+	</dependency>
 
 	<dependency>
 		<groupId>org.springframework.boot</groupId>
