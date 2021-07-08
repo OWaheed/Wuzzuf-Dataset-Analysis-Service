@@ -1,12 +1,4 @@
 Wuzzuf Dataset Analysis Service
-# Java Web Service Application Using Spark To Analyze Wuzzuf DataSet
-the project contain 2 project :
-   
-   1.maven project
-  
-   2.web service project:
-         The  Main Page  is at http://localhost:8080
-         here is a demo video of the project   while  running  https://youtu.be/J331k-QhP6U
 
 # The Project Contain Many Services :
   1. Read data set and convert it to Spark RDD and display some from it.
